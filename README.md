@@ -1,7 +1,7 @@
 # OS_ka_code
 OS DAs ityadi......
 
-Banker's Algorithm C Code to avoid deadlocks. 
+my OS assignments' C Code to avoid deadlocks and some scheduling algorithms. 
 
 
 Acknowledgments:
