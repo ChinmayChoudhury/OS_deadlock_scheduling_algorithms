@@ -1,23 +1,11 @@
-# OS_ka_code
-OS DAs ityadi......
+Operating System concepts: process scheduling and deadlock avoidance.
+Process Scheduling: 
+  1. Round Robin algorithm
+  2. First Come First Serve
+  3. Priority
+  4. Shortest Job First
 
-my OS assignments' C Code to avoid deadlocks and some scheduling algorithms. 
+Deadlock Avoidance uses Banker's algorithm
 
-
-Acknowledgments:
-to all the shitty codes on the internet that inspires me to write my own code so, here it is THE CODE.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ps: always open for better codes.
+How to run: 
+  compile the .c files and run.
